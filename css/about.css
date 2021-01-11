@@ -32,7 +32,7 @@ body{
 }
 .content{
   padding: 3% 20%;
-  text-align: center;
+
 }
 
 .contentanchor{
@@ -40,6 +40,9 @@ body{
 }
 .contentanchor:hover{
   color: #308abc;
+}
+.pic{
+  width: 10%;
 }
 
 /* Footer */
