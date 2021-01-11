@@ -32,7 +32,12 @@ body{
 }
 .content{
   padding: 3% 20%;
-
+  text-align: center;
+}
+.content-aboutus2
+{
+  padding: 3% 20%;
+  text-align: left;
 }
 
 .contentanchor{
